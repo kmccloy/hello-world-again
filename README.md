@@ -1,2 +1,4 @@
 # hello-world-again
-My first repository
+This is my attempt at learning something new. 
+
+It should be fun. Tonnes of fun, yeah?
